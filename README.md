@@ -1,13 +1,12 @@
+#### 2srt2ass.py
 
-#### ass2srt.py
-Converts 1 simple (i.e. single sub) .ass file to a .srt file
+Combines two .srt files into one .ass file
 
 ===========
 
 
-#### 2srt2ass.py
-
-Combines two .srt files into one .ass file
+#### ass2srt.py
+Converts 1 simple (i.e. single sub) .ass file to a .srt file
 
 ===========
 
